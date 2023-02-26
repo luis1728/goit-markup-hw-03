@@ -1,4 +1,4 @@
-# goit-markup-hw-02
+# goit-markup-hw-03
 
 ## Tarea desplegada desde github pages
 https://luis1728.github.io/goit-markup-hw-02/
